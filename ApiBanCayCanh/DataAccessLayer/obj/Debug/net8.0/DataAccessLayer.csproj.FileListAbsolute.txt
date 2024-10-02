@@ -1,0 +1,15 @@
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\bin\Debug\net8.0\DataModel.dll
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\bin\Debug\net8.0\DataModel.pdb
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\visual studio\ApiBanCayCanh\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

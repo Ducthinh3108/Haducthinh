@@ -1,0 +1,6 @@
+@AdminCayCanh_HostAddress = http://localhost:5051
+
+GET {{AdminCayCanh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+D:\visual studio\ApiBanCayCanh\DataModel\bin\Debug\net8.0\DataModel.deps.json
+D:\visual studio\ApiBanCayCanh\DataModel\bin\Debug\net8.0\DataModel.dll
+D:\visual studio\ApiBanCayCanh\DataModel\bin\Debug\net8.0\DataModel.pdb
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\DataModel.csproj.AssemblyReference.cache
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\DataModel.AssemblyInfoInputs.cache
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\DataModel.AssemblyInfo.cs
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\DataModel.csproj.CoreCompileInputs.cache
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\DataModel.dll
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\refint\DataModel.dll
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\DataModel.pdb
+D:\visual studio\ApiBanCayCanh\DataModel\obj\Debug\net8.0\ref\DataModel.dll

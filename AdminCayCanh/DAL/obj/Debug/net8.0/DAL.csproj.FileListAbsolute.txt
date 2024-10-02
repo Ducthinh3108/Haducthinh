@@ -1,0 +1,15 @@
+D:\visual studio\AdminCayCanh\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\visual studio\AdminCayCanh\DAL\bin\Debug\net8.0\DAL.dll
+D:\visual studio\AdminCayCanh\DAL\bin\Debug\net8.0\DAL.pdb
+D:\visual studio\AdminCayCanh\DAL\bin\Debug\net8.0\Model.dll
+D:\visual studio\AdminCayCanh\DAL\bin\Debug\net8.0\Model.pdb
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\DAL.dll
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\DAL.pdb
+D:\visual studio\AdminCayCanh\DAL\obj\Debug\net8.0\ref\DAL.dll

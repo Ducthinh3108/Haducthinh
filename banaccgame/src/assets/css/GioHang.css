@@ -1,0 +1,181 @@
+body {
+  background-color: #f0f0f0;
+}
+
+#TieuDe7 {
+  width: 1230px;
+  height: 27px;
+  font-size: 15px;
+  text-align: left;
+  text-decoration: none;
+  color: black;
+  margin-top: 15px;
+  margin-left: 125px;
+  float: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: 80px;
+  margin-left: 145px;
+}
+#TieuDe7 a {
+  height: 27px;
+  font-size: 12px;
+  text-align: left;
+  text-decoration: none;
+  color: black;
+}
+#main7 {
+  width: 1230px;
+  height: auto;
+  background-color: #ffffff;
+  margin-left: px;
+  margin-top: 40px;
+  overflow: auto;
+  margin-left: px;
+}
+#main-left7 {
+  width: 70%;
+  float: left;
+}
+#main-right7 {
+  width: 30%;
+  float: left;
+}
+/* Phần tử #title_cart */
+#title_cart7 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  width: 100%;
+}
+
+/* Phần tử #row_fluid */
+#row_fluid7 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+/* Phần tử #box_list_cart */
+#box_list_cart7 {
+  width: 100%;
+  margin-right: 20px;
+}
+
+#box_list_cart7 table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#box_list_cart7 th,
+#box_list_cart7 td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#box_list_cart7 th {
+  background-color: #f2f2f2;
+}
+
+/* Phần tử #span4 */
+#span47 {
+  width: 100%;
+}
+
+/* Phần tử #title_tom_tat */
+#title_tom_tat7 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Phần tử #list_tom_tat_thanh_toan */
+#list_tom_tat_thanh_toan7 {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-top: 25px;
+}
+
+/* Phần tử #italic_right */
+#italic_right7 {
+  text-align: right;
+  margin-top: 10px;
+}
+
+/* Phần tử #box_tong_cong */
+#box_tong_cong7 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Phần tử #label_tong_cong */
+#label_tong_cong7 {
+  font-weight: bold;
+}
+#box_bt_payment7 {
+  width: 1180px;
+  height: auto;
+  color: #66645c;
+  display: flex;
+  flex-direction: row-reverse;
+  font-size: 13px;
+  justify-content: center;
+  padding: 40px 0px;
+  text-align: left;
+
+  margin: 0px auto;
+}
+
+#bt_quay_lai7 {
+  width: 256px;
+  height: 20px;
+  background-color: #cecdcd;
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  padding: 13px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  float: left;
+  height: auto;
+}
+
+#bt_thanh_toan7 {
+  width: 256px;
+  height: auto;
+  background-color: #c92127;
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0px 0px 0px 25px;
+  padding: 13px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ffffff;
+  float: right;
+}
+#bt_thanh_toan8 {
+  width: 150px;
+  height: auto;
+  background-color: #b4b1b1;
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  margin: 0px 0px 0px 25px;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ffffff;
+  float: right;
+}
